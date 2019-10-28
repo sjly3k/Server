@@ -6,8 +6,6 @@
 
 > &#9989; &#10103;  We take care of your original pictures and generated pictures  &#128140;
 
-> &#9989; &#10104; 
-
 
 <!-- blank line -->
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.gpl-license.org)
@@ -92,10 +90,6 @@ $ python manage.py runserver 0.0.0.0:8080
 ### Step 3
 
 - 🔃 Create a new pull request 
-
----
-
----
 
 ## License
 
